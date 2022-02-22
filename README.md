@@ -4,9 +4,9 @@ This is an implemention of [todo.txt](http://todotxt.org/) using the .NET framew
 
 There is installer for the latest version available from the [releases page](https://github.com/benrhughes/todotxt.net/releases).
 
-## Maintenence mode
+## Maintenance mode
 
-Please note that todotxt.net is now in maintenence mode. I am happy to receive bug reports and bug fixes, but no new features will be added at this stage.
+Please note that todotxt.net is now in maintenance mode. I am happy to receive bug reports and bug fixes, but no new features will be added at this stage.
 
 ## Note for contributors
 
